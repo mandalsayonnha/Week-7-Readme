@@ -8,3 +8,4 @@ Added the script a<img src=a onerror=alert(document.cookie)>.jpg in the title fi
 I clicked on the image and then clicked on view attachment page.
 Received error message
 GIF walkthrough
+<a href="https://imgflip.com/gif/21kh02"><img src="https://i.imgflip.com/21kh02.gif" title="made at imgflip.com"/></a>
