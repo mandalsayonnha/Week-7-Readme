@@ -28,3 +28,12 @@ The GIP captured could not capture the full screen, showed up as blank
 
 <a href="https://imgflip.com/gif/21kh6d"><img src="https://i.imgflip.com/21kh6d.gif" title="made at imgflip.com"/></a>
 
+
+3. XSS using media files
+Tried with version 4.1.1 and 4.1
+Added files to media library (mp3 format)
+Added script "<script>alert(document.cookie);</script>" into the description section of the files
+Created a new post and added the media files to create a playlist.
+Should have obtained error message as tested with the scrip on w3schools.com
+Somehow did not get teh required result in wpdistillery.local
+wpdistillery.dev not responding
